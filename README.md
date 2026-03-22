@@ -1,5 +1,5 @@
 # 🔒 SoulSync - AI 陪伴私密日記
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lucas66666677/SoulSync-AI-Chatting-Bot/blob/main/%F0%9F%94%92_SoulSync_%E7%A7%81%E5%AF%86%E6%97%A5%E8%A8%98%E6%BC%94%E7%A4%BA%E7%89%88.ipynb)
 * SoulSync** 是一個結合 AI 對話與情緒監測的私密日記系統。透過 Groq 的高速推論引擎與 Streamlit 互動介面，為使用者提供一個安全、溫暖的情緒出口。
 
 ## ✨ 核心功能
